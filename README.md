@@ -9,5 +9,6 @@ This is a demo reppo to teach people how to use Git and GitHub in a collaborativ
 # Project Objectives
 Build simple guides and examples on how to use Git and GitHub
 
-# PyCharm Title
-This is a PyCharm example
+
+# Deleting Pycharm Title
+This is deleted sample
