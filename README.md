@@ -12,3 +12,6 @@ Build simple guides and examples on how to use Git and GitHub
 
 # Deleting Pycharm Title
 This is deleted sample
+
+# Add Pycharm Sample
+This is a PyCharm example
